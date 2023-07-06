@@ -1,0 +1,15 @@
+.container {
+justify-content: center;
+}
+
+
+
+
+
+.list-item {
+    justify-content: left;
+}
+.unordered-ol{
+    float: left;
+    ;
+}
